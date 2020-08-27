@@ -17,8 +17,8 @@ import matplotlib.pyplot as plt
 
 matplotlib.rc('font', size=20)
 
-vert = skrf.Network("Saber_Vert.s2p")
-horz = skrf.Network("Saber_Horz.s2p")
+vert = skrf.Network("Vertical.s2p")
+horz = skrf.Network("Horizontal.s2p")
 vert.s21.plot_s_db(linewidth=3, label="Vertical Polarization")
 horz.s21.plot_s_db(linewidth=3, label="Horizontal Polarization")
 
