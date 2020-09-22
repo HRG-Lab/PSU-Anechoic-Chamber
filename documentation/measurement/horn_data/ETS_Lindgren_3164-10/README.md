@@ -4,9 +4,7 @@
 |-------------------------|----------|
 | Frequency Range \[GHz\] | 0.4 - 10 |
 
-The two .s2p files in this directory cover the frequency range of the horn and
-were taken with the two horns pointed directly aligned, boresight, approximately
-aligned with the standard positioner mast.
+The two .s2p files in this directory cover the frequency range of the horn and were taken with the two horns pointed directly aligned, boresight, approximately aligned with the standard positioner mast.
 
 The following code was used to generate the plots at the end of this page:
 
